@@ -1,5 +1,7 @@
 # Don't Count Eggs on Rails
 
+**This repository is archived.** This project now lives in [isochronous/ONI-Mods](https://github.com/isochronous/ONI-Mods/tree/main/mods/dont-count-eggs-on-rails), with its full history; work and new releases continue there. The releases published here stay available.
+
 An [Oxygen Not Included](https://www.klei.com/games/oxygen-not-included) mod: critter sensors no longer count eggs that are riding a conveyor rail through the room.
 
 ## The problem
